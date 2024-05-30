@@ -1,0 +1,15 @@
+
+streamlit
+PyPDF2
+google.generativeai
+python-dotenv
+streamlit-option-menu
+pydub
+SpeechRecognition 
+moviepy
+
+streamlit-scrollable-textbox
+langchain
+langchain-google-genai
+wikipedia
+streamlit-antd-components==0.3.2
